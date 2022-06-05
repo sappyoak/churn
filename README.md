@@ -1,0 +1,1 @@
+Churn is a simple project generator and manager built for use with my own personal projects. 
