@@ -1,0 +1,22 @@
+# Deps
+node_modules/
+.pnp/
+.pnp.js
+
+# Tests
+coverage/
+reports/
+bench/
+
+# Prod
+build/
+dist/
+deploy/
+stage/
+
+# Misc
+.DS_Store
+*.log
+*.env
+!.example.env
+
